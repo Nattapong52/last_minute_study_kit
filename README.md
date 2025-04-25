@@ -29,7 +29,7 @@ Let’s get through this and maybe — just maybe — take a nap after.
 ## Random Motivator
 
 _If you're reading this while shaking from caffeine and academic anxiety, you're not alone._  
-_Keep going. Your porsche spyder 918 isn't going to buy itself._  
+_STOP CRYING. Your porsche spyder 918 isn't going to buy itself._  
 (Or a Supra. Or THE 1956 BMW 507. Whatever gets you to class.)
 
 ---
