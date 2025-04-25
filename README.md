@@ -22,17 +22,7 @@ Because I’m tired. You’re tired.
 But we still gotta pass.  
 This repo was built on 5 cans of Red Bull a day, nicotine, and the kind of regret you only get from solving 3 pages of calculus at 2 AM.
 
-If it helps you survive finals, then it’s all worth it.
-
----
-
-## Bonus Encouragement
-
-> *“You’re not bad at this. You’re just tired.”*  
-> *“You’re smarter than you give yourself credit for. You always were.”*  
-> *“It’s okay if this part feels tough. Not being good at something doesn’t mean you’re not brilliant. You are.”*  
-> *“You’re sharper than you realize. You pick things up so fast — it's just that sometimes you're too chill to notice.”*  
-> *“Trust your brain a little more. You always figure things out faster than you think.”*
+Let’s get through this and maybe — just maybe — take a nap after.
 
 ---
 
