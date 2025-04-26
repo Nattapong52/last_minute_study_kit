@@ -20,7 +20,7 @@ This is a collection of study notes made by someone who's running purely on caff
 
 Because I’m tired. You’re tired.  
 But we still gotta pass.  
-This repo was built on nicotine and the kind of regret you only get from solving 3 pages of calculus at 2 AM.
+This repo was built on matcha and the kind of regret you only get from solving 3 pages of calculus at 2 AM.
 
 Let’s get through this and maybe, just maybe, take a nap after.
 
@@ -38,7 +38,7 @@ _STOP CRYING. Your dream house isn't going to buy itself._
 
 - May cause sudden motivation  
 - May make you feel like crying  
-- May smell like Red Bull and regret
+- May smell like energy drink and regret
 
 _This summary was proudly powered by 5 Red Bulls per day and no actual meals._  
 _If you're reading this, please eat something. Unlike me._
