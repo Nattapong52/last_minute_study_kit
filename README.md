@@ -40,7 +40,5 @@ _STOP CRYING. Your dream house isn't going to buy itself._
 - May make you feel like crying  
 - May smell like energy drink and regret
 
-_This summary was proudly powered by 5 Red Bulls per day and no actual meals._  
-_If you're reading this, please eat something. Unlike me._
 
 Disclaimer: caffeine > logic. you’ve been warned.
