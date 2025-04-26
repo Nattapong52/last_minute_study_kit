@@ -10,9 +10,9 @@ This is a collection of study notes made by someone who's running purely on caff
 ---
 
 ## Subjects Covered
-- Calculus II (yes it still exists)
-- Physics (unfortunately)
 - Programming (bless the compiler)
+- Calculus II (yes it still exists) > coming soon...
+- Physics (unfortunately) > coming soon...
 
 ---
 
