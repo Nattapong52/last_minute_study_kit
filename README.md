@@ -20,7 +20,7 @@ This is a collection of study notes made by someone who's running purely on caff
 
 Because I’m tired. You’re tired.  
 But we still gotta pass.  
-This repo was built on 5 cans of Red Bull a day, nicotine, and the kind of regret you only get from solving 3 pages of calculus at 2 AM.
+This repo was built on nicotine and the kind of regret you only get from solving 3 pages of calculus at 2 AM.
 
 Let’s get through this and maybe, just maybe, take a nap after.
 
@@ -29,8 +29,7 @@ Let’s get through this and maybe, just maybe, take a nap after.
 ## Random Motivator
 
 _If you're reading this while shaking from caffeine and academic anxiety, you're not alone._  
-_STOP CRYING. Your porsche spyder 918 isn't going to buy itself._  
-(Or a Supra. Or THE 1956 BMW 507. Whatever gets you to class.)
+_STOP CRYING. Your dream house isn't going to buy itself._  
 
 ---
 
