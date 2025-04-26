@@ -22,7 +22,7 @@ Because I’m tired. You’re tired.
 But we still gotta pass.  
 This repo was built on 5 cans of Red Bull a day, nicotine, and the kind of regret you only get from solving 3 pages of calculus at 2 AM.
 
-Let’s get through this and maybe — just maybe — take a nap after.
+Let’s get through this and maybe, just maybe, take a nap after.
 
 ---
 
